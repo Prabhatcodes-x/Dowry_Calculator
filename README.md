@@ -61,3 +61,7 @@ This project is satirical and made for awareness purposes only. We strongly oppo
 
 If you like this project, give it a ⭐ on GitHub and say NO to dowry!
 
+
+"This project is licensed under the MIT License – see the LICENSE file for details."
+
+
